@@ -40,7 +40,7 @@ Step 7: need to test the app for this run the command:
 
 minikube ip
 
-copy the url here i got the url: 172.18.174.62:3000
+copy the url here i got the url: 172.18.174.62:3030
 
 with this i get the output of current location and time.
 
