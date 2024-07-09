@@ -41,7 +41,7 @@ Service YAML file using NodePort to expose my application
 
 minikube ip
 
-copy the url here i got the url: 172.18.174.62:3030
+copy the url here i got the url: 172.18.174.62:30300
 
 with this i get the output of current location and time.
 
